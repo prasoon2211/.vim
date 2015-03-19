@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/prasoon/work/test'
+let g:netrw_dirhist_2='/home/prasoon/work/joomla-cms/components'
+let g:netrw_dirhist_3='/home/prasoon/.emacs.d'
